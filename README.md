@@ -8,7 +8,7 @@ Colab notebook https://colab.research.google.com/github/cloud-annotations/google
 - Windows OS (Windows 10 & Windows 2019 server are tested)
 - NVIDIA GPU (Quadro P600 and Tesla P100 are tested)
 
-Pipeline might work without GPU, but it has not been tested. Training without GPU would be extremely slow compared to training with GPU.
+Pipeline might work without GPU, but it has not been tested. Training with CPU would be extremely slow compared to training with GPU.
 
 ## Configuration
 
