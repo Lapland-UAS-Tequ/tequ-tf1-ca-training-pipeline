@@ -87,4 +87,4 @@ https://github.com/juhaautioniemi/win10-nodered-tensorflow
 
 ### 8. Retraining or training another model
 - Change or modify source files, if needed
-- Repeat step 6. 
+- Repeat step 6
