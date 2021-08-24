@@ -41,7 +41,7 @@ git clone https://github.com/juhaautioniemi/tequ-tf1-ca-training-pipeline.git
 
 ### 4. Navigate to project folder
 
-Run batch-files
+Run batch-files. These batch-files needs to run only once. 
 
 ```
 1. Install Python libraries.cmd
