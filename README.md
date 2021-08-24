@@ -54,7 +54,7 @@ Run batch-files
 ### 5. Get source files
 
 - Export your Cloud Annotations project as ZIP-file
-- Unzip files to C:\<your project folder>\content\ca_source_data
+- Unzip files to ```C:\<your project folder>\content\ca_source_data```
 
 ### 6. Run training process
 
