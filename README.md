@@ -31,10 +31,11 @@ Copy extracted files in folder ```Cuda\include``` to ```C:\Program Files\NVIDIA 
 
 You could also setup environment variables to point the location of cuDNN files to make things work.
 
-### 3. Clone this project
+### 3. Clone this project 
 
+```git clone https://github.com/juhaautioniemi/tequ-tf1-ca-training-pipeline.git```
 
-### 3. Open command line and navigate to project folder
+### 4. Navigate to project folder
 
 Run batch-files
 
@@ -42,7 +43,32 @@ Run batch-files
 
 ```2. Clone models repository.cmd```
 
-```3. Build object detection api```
+```3. Build object detection api.cmd```
 
+```4. Setup environment variables.cmd```
+
+### 5. Get source files
+
+- Export your Cloud Annotations project as ZIP-file
+- Unzip files to C:\<your project folder>\content\ca_source_data
+
+### 6. Run training process
+
+- Navigate to project folder
+- Run batch-file ```Run training process.cmd```
+- Input requested values during process (base model, batch size, training steps)
+- Trained & converted Tensorflow.js models are saved in ```C:\<your project folder>\content\trained_models```
+
+### 7. Using the model
+
+Model files can be loaded and executed in Node-RED with 
+
+https://flows.nodered.org/node/node-red-contrib-cloud-annotations-gpu
+or
+https://flows.nodered.org/node/node-red-contrib-tf-model
+
+More information:
+https://github.com/juhaautioniemi/jetson-nodered-tensorflow
+https://github.com/juhaautioniemi/win10-nodered-tensorflow
 
 
