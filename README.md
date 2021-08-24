@@ -5,9 +5,6 @@ This guide is for configuring your Windows machine to train Tensorflow.js models
 
 - Windows OS (Windows 10 & Windows 2019 server are tested)
 - NVIDIA GPU (Quadro P600 and Tesla P100 are tested)
-- 
-
-
 
 ## Configuration
 
@@ -20,8 +17,7 @@ This guide is for configuring your Windows machine to train Tensorflow.js models
 | Protoc        | 3.17.3        | https://developers.google.com/protocol-buffers/docs/downloads |
 | Python        | 3.7.9         | https://www.python.org/downloads/release/python-379/ |
 | Git           | 2.33.0        | https://git-scm.com/downloads |
-| GPU drivers   | |                     
-
+| GPU drivers   | Supported driver for Cuda 10 | https://www.nvidia.com/Download/index.aspx?lang=en-us |
 
 ### 2. cuDNN installation
 
@@ -34,6 +30,19 @@ Copy extracted files in folder ```Cuda\lib``` to ```C::\Program Files\NVIDIA GPU
 Copy extracted files in folder ```Cuda\include``` to ```C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include```
 
 You could also setup environment variables to point the location of cuDNN files to make things work.
+
+### 3. Clone this project
+
+
+### 3. Open command line and navigate to project folder
+
+Run batch-files
+
+```1. Install Python libraries.cmd```
+
+```2. Clone models repository.cmd```
+
+```3. Build object detection api```
 
 
 
