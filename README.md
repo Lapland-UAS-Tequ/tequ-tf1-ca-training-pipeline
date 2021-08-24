@@ -1,5 +1,7 @@
 # tequ-tf1-ca-training-pipeline
-This guide is for configuring your Windows machine to train Tensorflow.js models. Guide assumes that source image files are annotated with Cloud Annotations tool (https://cloud.annotations.ai/).
+This guide is for configuring your Windows machine to train Tensorflow.js models. Guide assumes that source image files are annotated with Cloud Annotations tool (https://cloud.annotations.ai/). 
+
+Colab notebook https://colab.research.google.com/github/cloud-annotations/google-colab-training/blob/master/object_detection.ipynb has been used as template for this pipeline.
 
 ## Requirements
 
@@ -72,5 +74,4 @@ https://flows.nodered.org/node/node-red-contrib-tf-model
 More information:
 https://github.com/juhaautioniemi/jetson-nodered-tensorflow
 https://github.com/juhaautioniemi/win10-nodered-tensorflow
-
 
