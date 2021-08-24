@@ -33,7 +33,9 @@ You could also setup environment variables to point the location of cuDNN files 
 
 ### 3. Clone this project 
 
-```git clone https://github.com/juhaautioniemi/tequ-tf1-ca-training-pipeline.git```
+```
+git clone https://github.com/juhaautioniemi/tequ-tf1-ca-training-pipeline.git
+```
 
 ### 4. Navigate to project folder
 
