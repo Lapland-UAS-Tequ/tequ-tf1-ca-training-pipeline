@@ -68,10 +68,14 @@ Run batch-files
 Model files can be loaded and executed in Node-RED with 
 
 https://flows.nodered.org/node/node-red-contrib-cloud-annotations-gpu
+
 or
+
 https://flows.nodered.org/node/node-red-contrib-tf-model
 
 More information:
+
 https://github.com/juhaautioniemi/jetson-nodered-tensorflow
+
 https://github.com/juhaautioniemi/win10-nodered-tensorflow
 
