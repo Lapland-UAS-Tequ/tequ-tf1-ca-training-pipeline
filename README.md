@@ -65,11 +65,9 @@ Run batch-files
 
 ### 7. Using the model
 
-Model files can be loaded and executed in Node-RED with 
+Model files can be loaded and executed in Node-RED using following nodes: 
 
 https://flows.nodered.org/node/node-red-contrib-cloud-annotations-gpu
-
-or
 
 https://flows.nodered.org/node/node-red-contrib-tf-model
 
