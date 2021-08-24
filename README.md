@@ -43,13 +43,21 @@ git clone https://github.com/juhaautioniemi/tequ-tf1-ca-training-pipeline.git
 
 Run batch-files
 
-```1. Install Python libraries.cmd```
+```
+1. Install Python libraries.cmd
+```
 
-```2. Clone models repository.cmd```
+```
+2. Clone models repository.cmd
+```
 
-```3. Build object detection api.cmd```
+```
+3. Build object detection api.cmd
+```
 
-```4. Setup environment variables.cmd```
+```
+4. Setup environment variables.cmd
+```
 
 ### 5. Get source files
 
