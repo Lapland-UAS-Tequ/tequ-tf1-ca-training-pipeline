@@ -21,7 +21,7 @@ Pipeline might work without GPU, but it has not been tested. Training with CPU w
 | Protoc        | 3.17.3        | <a href=https://tequ-win10-nodered-tensorflow.s3.eu.cloud-object-storage.appdomain.cloud/protoc-3.17.3-win64.zip>Download</a>|
 | Python        | 3.7.9         | <a href=https://tequ-win10-nodered-tensorflow.s3.eu.cloud-object-storage.appdomain.cloud/python-3.7.9-amd64.exe>Download</a>|
 | Git           | 2.33.0        | <a href=https://tequ-win10-nodered-tensorflow.s3.eu.cloud-object-storage.appdomain.cloud/Git-2.33.0-64-bit.exe>Download</a>|
-| GPU drivers   | Supported driver for Cuda 10 | <a href=https://www.nvidia.com/Download/index.aspx?lang=en-us>Download</a>|
+| GPU drivers   | Supported driver for Cuda 10 | https://www.nvidia.com/Download/index.aspx?lang=en-us |
 
 ### 2. cuDNN installation
 
