@@ -3,6 +3,10 @@ This guide is for configuring your Windows machine to train Tensorflow.js models
 
 Colab notebook https://colab.research.google.com/github/cloud-annotations/google-colab-training/blob/master/object_detection.ipynb has been used as template for this pipeline and functionality of this notebook has been transferred to work offline on Windows machine.
 
+Colab version of this pipeline can be found here:
+
+https://colab.research.google.com/drive/12dCba857nJ0dv3IiuiYSsSWGVgmR_TCY
+
 ## Requirements
 
 - Windows OS (Windows 10 & Windows 2019 server are tested)
