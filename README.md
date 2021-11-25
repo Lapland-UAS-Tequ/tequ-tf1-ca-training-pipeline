@@ -42,7 +42,7 @@ You could also setup environment variables to point the location of cuDNN files 
 ### 3. Clone this project 
 
 ```
-git clone https://github.com/juhaautioniemi/tequ-tf1-ca-training-pipeline.git
+git clone https://github.com/Lapland-UAS-Tequ/tequ-tf1-ca-training-pipeline.git
 ```
 
 ### 4. Navigate to project folder
@@ -87,9 +87,9 @@ https://flows.nodered.org/node/node-red-contrib-tf-model
 
 More information:
 
-https://github.com/juhaautioniemi/jetson-nodered-tensorflow
+https://github.com/Lapland-UAS-Tequ/jetson-nodered-tensorflow
 
-https://github.com/juhaautioniemi/win10-nodered-tensorflow
+https://github.com/Lapland-UAS-Tequ/win10-nodered-tensorflow
 
 ### 8. Retraining or training another model
 - Change or modify source files, if needed
