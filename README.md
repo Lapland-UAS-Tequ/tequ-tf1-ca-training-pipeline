@@ -5,7 +5,7 @@ https://www.tequ.fi/en/project-bank/fish-iot/
 ---
 
 # tequ-tf1-ca-training-pipeline
-This guide is for configuring your Windows machine to train Tensorflow.js models. Guide assumes that source image files are annotated with Cloud Annotations tool (https://cloud.annotations.ai/) or converted to Cloud Annotations format from Pascal VOC using conversion tool f(https://github.com/juhaautioniemi/xml2json).
+This guide is for configuring your Windows machine to train Tensorflow.js models. Guide assumes that source image files are annotated with Cloud Annotations tool (https://cloud.annotations.ai/) or converted to Cloud Annotations format from Pascal VOC using conversion tool f(https://github.com/Lapland-UAS-Tequ/Object-Detection-Tools).
 
 Colab notebook https://colab.research.google.com/github/cloud-annotations/google-colab-training/blob/master/object_detection.ipynb has been used as template for this pipeline and functionality of this notebook has been transferred to work offline on Windows machine.
 
